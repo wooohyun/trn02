@@ -1,1 +1,1 @@
-(https://wooohyun.github.io/trn02/)
+https://wooohyun.github.io/trn02/
